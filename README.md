@@ -65,6 +65,14 @@ Beyond engineering, I am deeply fascinated by modern fighter jets and aviation t
 I enjoy exploring aviation documentaries, simulation games, and films like *Top Gun* that celebrate the spirit of flight and cutting-edge aircraft.
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jh-emon002&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh-emon002&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
 
 ## 📫 Contact Me
 
