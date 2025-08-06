@@ -1,30 +1,44 @@
-# Hi there, I'm Jaied Hasan Emon 👋
+# Hi there, I'm Jaied Hasan Emon 
 
-🎓 **Level-4, Term-1** undergraduate at **BUET**  
+🎓 **Level-4, Term-1** undergraduate at **Dept. of EEE, BUET**  
 🎯 Majoring in **Communication and Signal Processing**  
-🚀 Tech Explorer | Builder | Problem Solver  
+🚀 Tech Explorer | Engineer | Problem Solver  
 
 ---
 
 ## 🔧 Tools & Technologies I Use
 
+- **Programming**:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks)
-![Proteus](https://img.shields.io/badge/-Proteus-000?logoColor=white)
-![FPGA](https://img.shields.io/badge/-FPGA-blue)
-![MIT App Inventor](https://img.shields.io/badge/-MIT%20App%20Inventor-fcc624?logo=app-inventor&logoColor=black)
 ![Verilog](https://img.shields.io/badge/-Verilog-ffcc00?logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=google-colab&logoColor=white)
-![PSPICE](https://img.shields.io/badge/-PSPICE-red)
-![Vivado](https://img.shields.io/badge/-Vivado-yellow)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+
+- **Simulation & Design**:
+![Verilog](https://img.shields.io/badge/-Verilog-ffcc00?logoColor=black)
 ![Keil](https://img.shields.io/badge/-Keil-blue)
 ![PSAF](https://img.shields.io/badge/-PSAF-darkgreen)
 ![PSSE](https://img.shields.io/badge/-PSSE-green)
+![Proteus](https://img.shields.io/badge/-Proteus-000?logoColor=white)
+![PSPICE](https://img.shields.io/badge/-PSPICE-red)
+![Vivado](https://img.shields.io/badge/-Vivado-yellow)
+
+- **Embedded Systems**:
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+![FPGA](https://img.shields.io/badge/-FPGA-blue)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+
+- **AI/ML**:
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=google-colab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+
+- **App Development**:
+![MIT App Inventor](https://img.shields.io/badge/-MIT%20App%20Inventor-fcc624?logo=app-inventor&logoColor=black)
+
+- **Other**:
 ![Civil Drawings](https://img.shields.io/badge/-Civil%20Drawings-grey)
 
 ---
@@ -44,16 +58,25 @@
 
 ---
 
-## 📫 Contact Me
+## ✈️ Passion for Aviation
 
-- 📧 **Email:**  
-  - mdjaiedhasan02@gmail.com  
-  - 2006146@eee.buet.ac.bd
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-jaied-hasan)
-- 📘 [Facebook](https://www.facebook.com/jh.emon.002)
-- 🧠 [Kaggle](https://www.kaggle.com/jaiedhasanemon)
-- 💻 **GitHub:** [jh-emon002](https://github.com/jh-emon002)
+Beyond engineering, I am deeply fascinated by modern fighter jets and aviation technology. From the stealth capabilities of the **F-22 Raptor** and **F-35 Lightning II** to the advanced design of the **Su-57 Felon** and classics like the **F-14 Tomcat**, I follow aerospace advancements closely. This passion inspires my engineering mindset — constantly pushing boundaries in technology and innovation.
+
+I enjoy exploring aviation documentaries, simulation games, and films like *Top Gun* that celebrate the spirit of flight and cutting-edge aircraft.
 
 ---
 
-📊 _Always learning. Always building._
+## 📫 Contact Me
+
+- 📧 **Email:**  
+  - ![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white) mdjaiedhasan02@gmail.com  
+  - ![Email](https://img.shields.io/badge/-Email-6fcf97?logo=mail&logoColor=white) 2006146@eee.buet.ac.bd  
+-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jaied-hasan)
+-  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/jh.emon.002)
+-  [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/jaiedhasanemon)
+-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/jh-emon002)
+
+
+---
+
+📊 _Always learning. Always improving._
