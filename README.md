@@ -67,10 +67,8 @@ I enjoy exploring aviation documentaries, simulation games, and films like *Top 
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jh-emon002&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh-emon002&layout=compact&theme=tokyonight" width="48%"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=jh-emon002&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh-emon002&layout=compact&theme=tokyonight)
 
 ---
 
