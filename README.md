@@ -82,7 +82,6 @@ I enjoy exploring aviation documentaries, simulation games, and films like *Top 
 -  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jaied-hasan)
 -  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/jh.emon.002)
 -  [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/jaiedhasanemon)
--  [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/jh-emon002)
 
 
 ---
