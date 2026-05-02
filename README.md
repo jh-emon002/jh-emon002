@@ -39,7 +39,10 @@ Tech Explorer | Engineer | Problem Solver
 ## Featured Projects
 
 - **GPS-free Rescue Drone** – A Visual Odometry based drone for rescue operations in GPS-denied environments.
-- **LifeSaver Helmet** – IoT-based smart helmet with accident detection, alcohol sensing, SMS alerts, GPS tracking, and app control.
+- **LifeSaver Helmet** – Developed an IoT-enabled smart helmet using ESP32, SIM800L GSM and GPS modules for automated
+fall detection and real-time emergency location tracking. Also Integrated alcohol and overspeed sensors
+with a companion custom built Android app to facilitate autonomous SOS signaling and system health
+monitoring.
 - **ML-Based Dynamic Bandwidth Allocation** – Forecasts internet bandwidth demand using multiple ML models (XGBoost, GRU, LSTM).
 - **Autonomous Fire Extinguishing Robot** – ESP32 and Arduino-based bot that senses and extinguishes fire in dual-room setups.
 - **Frequency Converter with Real-Time Display and Tuning** – Converts variable AC frequencies to a fixed and tunable AC using SG3524 and filtering techniques.
