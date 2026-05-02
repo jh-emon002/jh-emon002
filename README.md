@@ -38,37 +38,36 @@ Tech Explorer | Engineer | Problem Solver
 
 ## Featured Projects
 
-- **GPS-free Rescue Drone** – Developed a GPS-independent semi-autonomous drone for post-disaster Search & Rescue, utilizing bee-inspired logic and dual-camera Visual Odometry for navigation in GPS-denied environments.
-- 
+- **GPS-free Rescue Drone** – Developed a GPS-independent semi-autonomous drone for post-disaster Search & Rescue, leveraging bee-inspired navigation logic and dual-camera Visual Odometry to operate reliably in GPS-denied environments.
+
 - **LifeSaver Helmet** – Developed an IoT-enabled smart helmet using ESP32, SIM800L GSM and GPS modules for automated
 fall detection and real-time emergency location tracking. Also Integrated alcohol and overspeed sensors
 with a companion custom built Android app to facilitate autonomous SOS signaling and system health
 monitoring.
 
-- **ML-Based Dynamic Bandwidth Allocation** – This project forecasts mobile internet bandwidth demand in Bangladesh using regional traffic data from
-BTCL, focusing on the Savar area. Used multiple ML models (XGBoost, GRU, LSTM).
+- **ML-Based Dynamic Bandwidth Allocation** – Developed a predictive model for mobile internet bandwidth demand in Bangladesh using regional traffic data from BTCL, with a focus on the Savar region. Benchmarked multiple ML architectures including XGBoost, GRU, and LSTM to optimize forecast accuracy.
 
 - **Autonomous Fire Extinguishing Robot** – Developed an ESP32 and Arduino-based autonomous firefighting robot utilizing ESP-NOW for low-latency
 inter-chip communication. Engineered a closed-loop control system integrating flame sensors and L298N
 motor drivers for autonomous navigation and fire suppression.
 
-- **Frequency Converter with Real-Time Display and Tuning** – Designed a low cost system that converts any type of AC signals to a stable sinusoid. The output frequency is tunable and is displayed on an LCD display. The system works on AC to DC to AC conversion. 
-- 
-- **Lung Disease Classification from Audio** – This project detects pulmonary disorders through the analysis of lung sounds. We 
-applied Mel-Frequency Cepstral Coefficients (MFCC) to extract features and utilized a K-Nearest 
-Neighbors (KNN) classifier for categorizing illnesses.
-- 
-- **Tic-Tac-Toe Game Using Basic Gates** – Implemented digital logic game using flip-flops and logic gate ICs.
-- 
-- **Frequency Division Multiplexing (FDM)** – Hardware implementation of analog signal transmission using basic components.
-- 
+- **Frequency Converter with Real-Time Display and Tuning** – Designed a low-cost AC signal conditioner that converts arbitrary AC waveforms into a stable sinusoidal output with tunable frequency, operating on an AC–DC–AC conversion architecture with live frequency readout on an LCD display.
+
+- **Lung Disease Classification from Audio** – Built a pulmonary disorder detection system by analyzing respiratory sounds. Applied Mel-Frequency Cepstral Coefficients (MFCC) for feature extraction and employed a K-Nearest Neighbors (KNN) classifier to categorize pulmonary conditions.
+
+- **ESP-eye** - Developed an embedded vision system fusing ESP32-CAM with a pretrained MobileNetV2 model for real-time object recognition, with live prediction labels and confidence scores overlaid directly on the video stream.
+
+- **Tic-Tac-Toe Game Using Basic Gates** – Implemented a fully functional digital logic game using flip-flops and combinational logic gate ICs, without any microcontroller.
+
+- **Frequency Division Multiplexing (FDM)** – Constructed a hardware implementation of analog FDM, demonstrating simultaneous multi-channel signal transmission over a shared medium using discrete components.
+
 - **Sensitivity Analysis of IEEE 30 & 33 Bus Systems** – Simulated cascading failures using PSAF and MATLAB to identify critical nodes.
-- 
-- **Linear Induction Motor (LIM)** – Designed and built both 2-pole and 4-pole configurations with performance evaluation.
-- 
+
+- **Linear Induction Motor (LIM)** – Designed, wound, and characterized both 2-pole and 4-pole LIM configurations.
+
 - **Transient Analysis App** – Built a MATLAB application that simulates AC/DC circuits, plots time/frequency response and visualizes steady-state phase differences.
-- 
-- **AUTOCAD** - Electrical Service Design of a 14-storied, 4-unit apartment.
+
+- **AUTOCAD** - Produced a complete electrical service layout for a 14-story, 4-unit residential apartment building, including load scheduling, wiring diagrams, and distribution planning.
 
 ---
 
