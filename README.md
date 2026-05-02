@@ -71,7 +71,7 @@ motor drivers for autonomous navigation and fire suppression.
 
 ---
 
-## Passion for Aviation
+## Passion for Fighter jets
 
 Beyond engineering, I am deeply fascinated by modern fighter jets and aviation technology. From the stealth capabilities of the **F-22 Raptor** and **F-35 Lightning II** to the advanced design of the **Su-57 Felon** and classics like the **F-14 Tomcat**, I follow aerospace advancements closely. This passion inspires my engineering mindset — constantly pushing boundaries in technology and innovation.
 
