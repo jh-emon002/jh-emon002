@@ -38,20 +38,36 @@ Tech Explorer | Engineer | Problem Solver
 
 ## Featured Projects
 
-- **GPS-free Rescue Drone** – A Visual Odometry based drone for rescue operations in GPS-denied environments.
+- **GPS-free Rescue Drone** – Developed a GPS-independent semi-autonomous drone for post-disaster Search & Rescue, utilizing bee-inspired logic and dual-camera Visual Odometry for navigation in GPS-denied environments.
+- 
 - **LifeSaver Helmet** – Developed an IoT-enabled smart helmet using ESP32, SIM800L GSM and GPS modules for automated
 fall detection and real-time emergency location tracking. Also Integrated alcohol and overspeed sensors
 with a companion custom built Android app to facilitate autonomous SOS signaling and system health
 monitoring.
-- **ML-Based Dynamic Bandwidth Allocation** – Forecasts internet bandwidth demand using multiple ML models (XGBoost, GRU, LSTM).
-- **Autonomous Fire Extinguishing Robot** – ESP32 and Arduino-based bot that senses and extinguishes fire in dual-room setups.
-- **Frequency Converter with Real-Time Display and Tuning** – Converts variable AC frequencies to a fixed and tunable AC using SG3524 and filtering techniques.
-- **Lung Disease Classification from Audio** – Identifies diseases like asthma/heart failure from lung sounds using MFCC + KNN.
+
+- **ML-Based Dynamic Bandwidth Allocation** – This project forecasts mobile internet bandwidth demand in Bangladesh using regional traffic data from
+BTCL, focusing on the Savar area. Used multiple ML models (XGBoost, GRU, LSTM).
+
+- **Autonomous Fire Extinguishing Robot** – Developed an ESP32 and Arduino-based autonomous firefighting robot utilizing ESP-NOW for low-latency
+inter-chip communication. Engineered a closed-loop control system integrating flame sensors and L298N
+motor drivers for autonomous navigation and fire suppression.
+
+- **Frequency Converter with Real-Time Display and Tuning** – Designed a low cost system that converts any type of AC signals to a stable sinusoid. The output frequency is tunable and is displayed on an LCD display. The system works on AC to DC to AC conversion. 
+- 
+- **Lung Disease Classification from Audio** – This project detects pulmonary disorders through the analysis of lung sounds. We 
+applied Mel-Frequency Cepstral Coefficients (MFCC) to extract features and utilized a K-Nearest 
+Neighbors (KNN) classifier for categorizing illnesses.
+- 
 - **Tic-Tac-Toe Game Using Basic Gates** – Implemented digital logic game using flip-flops and logic gate ICs.
+- 
 - **Frequency Division Multiplexing (FDM)** – Hardware implementation of analog signal transmission using basic components.
+- 
 - **Sensitivity Analysis of IEEE 30 & 33 Bus Systems** – Simulated cascading failures using PSAF and MATLAB to identify critical nodes.
+- 
 - **Linear Induction Motor (LIM)** – Designed and built both 2-pole and 4-pole configurations with performance evaluation.
+- 
 - **Transient Analysis App** – Built a MATLAB application that simulates AC/DC circuits, plots time/frequency response and visualizes steady-state phase differences.
+- 
 - **AUTOCAD** - Electrical Service Design of a 14-storied, 4-unit apartment.
 
 ---
