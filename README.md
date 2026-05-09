@@ -24,9 +24,9 @@ Tech Explorer | Engineer | Problem Solver
 
 - **Embedded Systems**:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-![FPGA](https://img.shields.io/badge/-FPGA-1F5EBD?logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
+![FPGA](https://img.shields.io/badge/-FPGA-1F5EBD?logoColor=white)
 
 - **AI/ML**:
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
