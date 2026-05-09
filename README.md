@@ -26,6 +26,7 @@ Tech Explorer | Engineer | Problem Solver
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
   ![FPGA](https://img.shields.io/badge/-FPGA-1F5EBD?logoColor=white)
   ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/Raspberry-pi)
 
 - **AI/ML**:
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -38,7 +39,7 @@ Tech Explorer | Engineer | Problem Solver
 
 ## Featured Projects
 
-- **GPS-free Rescue Drone** – Developed a GPS-independent semi-autonomous drone for post-disaster Search & Rescue, leveraging bee-inspired navigation logic and dual-camera Visual Odometry to operate reliably in GPS-denied environments.
+- **GPS-free Rescue Drone** – Developed a GPS-independent semi-autonomous drone for post-disaster Search & Rescue. It uses Visual Odometry to operate reliably in GPS-denied environments. It detects victims from up and reports to the ground control station.
 
 - **LifeSaver Helmet** – Developed an IoT-enabled smart helmet using ESP32, SIM800L GSM and GPS modules for automated
 fall detection and real-time emergency location tracking. Also Integrated alcohol and overspeed sensors
