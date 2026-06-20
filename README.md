@@ -1,7 +1,7 @@
 # Hi there, I'm Jaied Hasan Emon 
 
-**Level-4, Term-2** undergraduate at **Dept. of EEE, BUET**  
-Majoring in **Communication and Signal Processing**  
+**Fresh Graduate** from **Dept. of EEE, BUET**  
+Major in **Communication and Signal Processing**  
 Tech Explorer | Engineer | Problem Solver  
 
 ---
