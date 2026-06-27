@@ -34,6 +34,9 @@ Tech Explorer | Engineer | Problem Solver
   ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 
+- **PCB design**:
+  ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?logo=kicad&logoColor=white)
+  
 - **App Development**:
   ![MIT App Inventor](https://img.shields.io/badge/-MIT%20App%20Inventor-FCC624?logoColor=black)
 
