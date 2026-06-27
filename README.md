@@ -42,7 +42,7 @@ Tech Explorer | Engineer | Problem Solver
 
 ## Featured Projects
 
-- **GPS-free Rescue Drone** – Developed a GPS-independent semi-autonomous drone for post-disaster Search & Rescue. It uses Visual Odometry to operate reliably in GPS-denied environments. It detects victims from up and reports to the ground control station.
+- **GPS-free Rescue Drone** – Developed a GPS-independent semi-autonomous drone for post-disaster Search & Rescue. It uses IMU assisted INS(Inertial Navigation System) to operate reliably in GPS-denied environments. It runs a human detection model on a Raspberry pi to detect victims from up and reports to the ground control station.
 
 - **LifeSaver Helmet** – Developed an IoT-enabled smart helmet using ESP32, SIM800L GSM and GPS modules for automated
 fall detection and real-time emergency location tracking. Also Integrated alcohol and overspeed sensors
